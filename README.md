@@ -1,0 +1,1 @@
+This code includes Text Animation that makes a string to display its characters one by one. Also it takes array of strings, so you can display as many string as you want as animating characters. Also we can Loop animation but this is not done in this code althought it is easy.
